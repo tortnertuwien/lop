@@ -1,0 +1,11 @@
+Package: lop
+Type: Package
+Title: Local Projection Based Data Analysis
+Version: 0.1
+Author: Ortner Thomas
+Maintainer: Ortner Thomas <thomas.ortner@tuwien.ac.at>
+Description:  The package contains implementations of three papers: Guided Projections for analysing high-dimensional Data Structure, Local projections for outlier detection, Multigroup discrimination based on weighted local projections
+License: GPL3
+Import: corpcor,
+        parallel
+LazyData: TRUE
